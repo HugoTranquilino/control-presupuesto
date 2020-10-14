@@ -1,0 +1,3 @@
+Versión publica de la aplicación 
+
+https://entrelineas.netlify.app/
